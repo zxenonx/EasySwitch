@@ -11,7 +11,6 @@ build/*
 examples/*
 examples.py
 uv.lock
-.vscode/*
 *.pyc
 .DS_Store
 *.egg
@@ -40,3 +39,6 @@ uv.lock
 *.swp
 *.swo
 site/*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
